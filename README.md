@@ -1,2 +1,0 @@
-# TestImageViewer
-Created with CodeSandbox
